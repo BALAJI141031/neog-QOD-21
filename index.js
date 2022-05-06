@@ -19,7 +19,7 @@ for(let i=0;i<image.length;i++){
   resultedArray.push(invertedArray)
 }
 console.log(resultedArray)
-
+// ===========-------------------------------------------------------------------------
 // question 2
 // let priceArray=[1,2,3,4,5]
 let priceArray=[10,1,1,6]
@@ -39,6 +39,7 @@ for(let i=0;i<priceArray.length;i++){
   if(flag===discountArray.length || 0===discountArray.length) finalPriceArray.push(priceArray[i])
 }
 console.log(finalPriceArray)
+// ==========================------------------------------->>>>>>>>>>>>>>>>>>
 
 // question 3 
 
